@@ -11,7 +11,7 @@ namespace DnDSplosion
         string name;
 
         // Stats
-        int statStr;
+        int statStr { public get; public set; }
         int statDex;
         int statCon;
         int statInt;
