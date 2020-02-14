@@ -62,8 +62,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Character.cs" />
     <Compile Include="Assets\Scripts\Class.cs" />
+    <Compile Include="Assets\Scripts\GameBoardEntity.cs" />
     <Compile Include="Assets\Scripts\Race.cs" />
-    <Compile Include="Assets\Scripts\Test.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Viele Kartoffeln/Documents/GitHub/DnDsplosion/DnDSplosion/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
